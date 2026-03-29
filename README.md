@@ -5,7 +5,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-Web API desenvolvida em ASP.NET Core com foco em **Security by Design** — 
+Web API desenvolvida em ASP.NET Core com foco em **Security by Design** —
 autenticação e autorização com padrões rigorosos de mercado, 
 simulando um cofre de dados sensíveis.
 
